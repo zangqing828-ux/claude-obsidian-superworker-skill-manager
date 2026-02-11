@@ -293,9 +293,9 @@ A: macOS、Linux、Windows 均支持。Windows 下建议使用 PowerShell。
 
 ## 联系方式
 
-- **GitHub**: [你的GitHub用户名]/CC+OB-open
-- **Issues**: https://github.com/[你的GitHub用户名]/CC+OB-open/issues
-- **Discussions**: https://github.com/[你的GitHub用户名]/CC+OB-open/discussions
+- **GitHub**: zangqing828-ux/claude-obsidian-superworker-skill-manager
+- **Issues**: https://github.com/zangqing828-ux/claude-obsidian-superworker-skill-manager/issues
+- **Discussions**: https://github.com/zangqing828-ux/claude-obsidian-superworker-skill-manager/discussions
 
 ---
 
